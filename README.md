@@ -3,10 +3,9 @@
 🎓 I am a Software Engineering Student
 
 🎯 Current focus:
-- C++
+- C++(Data Structures & Algorithms)
 - Python
 
 📌 Goals:
-- Data Structures & Algorithms
 - Databases
 - Full Stack Projects
