@@ -1,6 +1,6 @@
 # ⚡ Hi, I'm Muhammad Ahmed Orakzai
 
-Software Engineering student passionate about C++, Data Structures & Algorithms, and Modern Web Development.
+Software Engineering Student
 
 ---
 
@@ -20,20 +20,11 @@ Software Engineering student passionate about C++, Data Structures & Algorithms,
 
 ---
 
-### 📌 Current Focus & Roadmap
+Roadmap
 
-- 🔭 **Currently Working On:** C++ Data Structures & Algorithms and Responsive Web Development
-- 📚 **Learning:** Object-Oriented Design, Modern JavaScript, and Database Systems
-- 🎯 **Goals for 2026:** Build full-stack projects and contribute to open-source software
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedorakzai18&show_icons=true&theme=tokyonight&hide_border=true" alt="Ahmed's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedorakzai18&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+- 🔭 Currently Focus: Data Structures & Algorithms and Responsive Web Development
+- 📚 Learning: Object-Oriented Design, Modern JavaScript, and Database Systems
+- 🎯 Goals for 2026: Build full-stack projects and contribute to open-source software
 
 ---
 
