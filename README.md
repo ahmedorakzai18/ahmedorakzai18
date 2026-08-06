@@ -1,4 +1,4 @@
-# ⚡ Hi, I'm Muhammad Ahmed Orakzai
+# Hi, I'm Muhammad Ahmed Orakzai
 
 Software Engineering Student
 
