@@ -30,10 +30,6 @@ Roadmap
 
 ### 📫 Connect with Me
 
-### 📫 Connect with Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-ahmad-orakzai/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ahmedorakzai18@gmail.com)
 [![X (formerly Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ahmedorakzai10)
-
-📧 **Direct Email:** `ahmedorakzai18@gmail.com`
