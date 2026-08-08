@@ -2,7 +2,6 @@
 
 ## Software Engineering Student
 
----
 
 ### 🛠️ Languages & Technologies
 
