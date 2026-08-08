@@ -1,6 +1,6 @@
 # Hey, I'm Muhammad Ahmed Orakzai
 
-#### Software Engineering Student
+## Software Engineering Student
 
 ---
 
