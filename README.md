@@ -24,14 +24,11 @@ Roadmap
 
 🎯 Current focus:
     - DSA
-    
     - Front-End Development
 
 ⌛ Goals
     - Backend development
-    
     - Python
-    
     - AI & Machine Learning
     
 ---
