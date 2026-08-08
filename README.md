@@ -22,14 +22,9 @@ Software Engineering Student
 
 Roadmap
 
-🎯 Current focus:
-    - DSA
-    - Front-End Development
+🎯 **Current focus:** DSA &nbsp;&bull;&nbsp; Front-End Development
 
-⌛ Goals
-    - Backend development
-    - Python
-    - AI & Machine Learning
+⌛ **Goals:** Backend development &nbsp;&bull;&nbsp; Python &nbsp;&bull;&nbsp; AI & Machine Learning
     
 ---
 
