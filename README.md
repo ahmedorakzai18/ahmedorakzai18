@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Ahmed Orakzai
+# Hey, I'm Muhammad Ahmed Orakzai
 
 Software Engineering Student
 
@@ -22,10 +22,15 @@ Software Engineering Student
 
 Roadmap
 
-- 🔭 Currently Focus: Data Structures & Algorithms and Responsive Web Development
-- 📚 Learning: Object-Oriented Design, Modern JavaScript, and Database Systems
-- 🎯 Goals for 2026: Build full-stack projects and contribute to open-source software
+🎯 Current focus:
+    - DSA
+    - Front-End Development
 
+⌛ Goals
+    - Backend development
+    - Python
+    - AI & Machine Learning
+    
 ---
 
 ### 📫 Connect with Me
@@ -33,3 +38,7 @@ Roadmap
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-ahmad-orakzai/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ahmedorakzai18@gmail.com)
 [![X (formerly Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ahmedorakzai10)
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark)](https://git.io/streak-stats)
