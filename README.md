@@ -1,13 +1,13 @@
 #  Hey, I'm Muhammad Ahmed Orakzai
 
 ## 💫 About Me
-##Software Engineering Student
+## Software Engineering Student
 
 Building Front-End systems with JavaScript, currently deep in web development fundamentals.
 
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ahmad-orakzai/) [![X]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ahmad-orakzai/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedorakzai18@gmail.com) 
 
 # 💻 Tech Stack:
