@@ -38,12 +38,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=ahmedorakzai18&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false" width="400" />
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ahmedorakzai18&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="300" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com/?user=ahmedorakzai18&theme=one_dark_pro&hide_border=false" />
 
 </div>
