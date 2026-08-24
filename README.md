@@ -38,9 +38,7 @@ Building Front-End systems with JavaScript, currently deep in web development fu
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedorakzai18&show_icons=true&theme=dark)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedorakzai18&show_icons=true&theme=dark)](https://github.com/ahmedorakzai18)
 
 ---
 ### 📫 Connect
