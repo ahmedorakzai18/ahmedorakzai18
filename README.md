@@ -2,7 +2,7 @@
 
 ## Software Engineering Student
 
-##💫 About Me
+## About Me
 Building Front-End systems with JavaScript, currently deep in web development fundamentals.
 
 
