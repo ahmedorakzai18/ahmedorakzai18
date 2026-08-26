@@ -34,15 +34,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=ahmedorakzai18&theme=one_dark_pro&hide_border=false" />
-
-</div>
-
----
 ### 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-ahmad-orakzai/)
